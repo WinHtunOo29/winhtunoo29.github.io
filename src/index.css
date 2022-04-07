@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+
+body {
+  margin: 0;
+  word-spacing: 10px;
+  font-family: 'Orbitron', courier, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  line-height: 2;
+}
+
+.nav {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+
+.content {
+  width: 50%;
+  margin: 50px auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

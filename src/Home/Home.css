@@ -1,0 +1,14 @@
+.home {
+    width: 50%;
+    margin: 100px auto auto auto;
+    text-align: center;
+}
+
+.home .image {
+    width: 30%;
+    margin: auto;
+}
+
+.home .content {
+    margin-top: 30px;
+}
